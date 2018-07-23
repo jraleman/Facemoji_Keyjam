@@ -2,11 +2,9 @@
 
 <img src="preview/png/apk-icon.png" width=100 height=100 />
 
-## About
-
 *A keyboard to go bananas for...*
 
-![banner](preview/png/apk-banner.png)
+<img src="preview/png/apk-banner.png" style="width: 420px; height: auto" />
 
 ### Event
 
@@ -21,13 +19,25 @@ on setting up a challenge to design a new mobile keyboard for their mobile app.
 Anything created at the event, remains personal property, even after the event
 is over, so you can choose to keep it or sell it.
 
-## Preview (screenshots)
+## Design
 
-![portrait](preview/png/portrait-keyboard.png)
+...
 
-![portrait_pop-up](preview/png/portrait-keyboard-popup.png)
+### Idea
 
-![landscape](preview/png/landscape-keyboard.png)
+...
+
+### Color Palette
+
+...
+
+### Preview (screenshots)
+
+<img alt="portrait" src="preview/png/portrait-keyboard.png" style="width: 360px; height: auto" />
+
+<img alt="portrait-popup" src="preview/png/portrait-keyboard-popup.png" style="width: 360px; height: auto" />
+
+<img alt="landscape" src="preview/png/landscape-keyboard.png" style="width: auto; height: 242;" />
 
 ## Tools
 
